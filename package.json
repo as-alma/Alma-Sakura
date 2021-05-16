@@ -1,0 +1,22 @@
+{
+    "name": "alma-sakura",
+    "displayName": "Alma Sakura",
+    "description": "Japanese styled theme inspired from the flower cheery blossom",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "publisher": "hoshinokanade",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Alma Dimmed Sakura",
+                "uiTheme": "vs-dark",
+                "path": "./themes/alma-sakura-color-theme.json"
+            }
+        ]
+    }
+}
