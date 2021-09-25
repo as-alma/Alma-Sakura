@@ -2,16 +2,19 @@
     "name": "alma-sakura",
     "displayName": "Alma Sakura",
     "description": "Japanese styled theme inspired from the flower cheery blossom",
-    "version": "0.1.0",
+    "version": "0.1.2",
     "engines": {
         "vscode": "^1.56.0"
     },
     "categories": [
         "Themes"
     ],
-    "icon": "https://raw.github.com/as-alma/Alma-Sakura/master/assets/logo-pink-partial-128x128.png",
     "publisher": "hoshinokanade",
-    "repository": "github.com/as-alma/Alma-Sakura",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/as-alma/Alma-Sakura"
+    },
+    "icon": "assets/logo-pink-partial-128x128.png",
     "contributes": {
         "themes": [
             {
