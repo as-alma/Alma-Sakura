@@ -4,14 +4,14 @@
 
 Japanese styled theme inspired from the flower cheery blossom.
 
-Theme available in [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=hoshinokanade.alma-sakura) as well as [Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=hoshinokanade.alma-sakura).
+Theme available in [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=hoshinokanade.alma-sakura) as well as [Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=hoshinokanade.as-alma-sakura).
 
 ## Themes
 
-Language highlighting styled designed for Typescipt.
+Language highlighting styled designed for Typescript.
 
 ### Alma Dimmed Sakura
-Based on the color of cheery blossom, asorted pinkish color are darkened in lower constrast, blended in a low-profile, relieving style. 
+Based on the color of cheery blossom, assorted pinkish color are darkened in lower constrast, blended in a low-profile, relieving style. 
 
 ### Alma Shined Sakura
 Coming soon.
